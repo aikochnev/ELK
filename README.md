@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-<img src = "img/elk01.png" width = 100%>
+<img src = "img/elk04.png" width = 100%>
 
 <img src = "img/elk02.png" width = 100%>
 
@@ -33,7 +33,7 @@
 
 ### Задание 2
 
-<img src = "img/elk04.png" width = 100%>
+<img src = "img/elk01.png" width = 100%>
 
 ---
 
